@@ -30,7 +30,7 @@ This adapter is used to bind the list of songs to a ListView in the `MainActivit
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/musicplayer.git
+   git clone https://github.com/fatik-islam/Music-Player-APP/tree/master
    \`\`\`
 
 2. Open the project in Android Studio.
